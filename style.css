@@ -6,7 +6,7 @@ body {
 
 .top {
   position: relative;
-  background-color: #b7efcd;
+  background-color: #66BFBF;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
   margin-bottom: 50px;
   font-family: 'Sacramento', cursive;
   font-size: 5.65rem;
-  color: #66BFBF;
+  color: #000000;
 }
 
 h2 {
