@@ -147,3 +147,18 @@ a:hover {
 	position:relative;
 	top:1px;
 }
+.css-art {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  margin: 0px 14% 0px 14%;
+  justify-content: center;
+}
+
+.css-art .skill-row {
+  width: auto !important;
+}
+.css-art img{
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+}
