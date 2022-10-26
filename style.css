@@ -148,9 +148,7 @@ a:hover {
 	top:1px;
 }
 .css-art {
-  display: grid;
-  grid-template-columns: 30% 30% 30%;
-  margin: 0px 14% 0px 14%;
+  display: flex;
   justify-content: center;
 }
 
